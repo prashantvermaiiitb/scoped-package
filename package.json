@@ -1,0 +1,23 @@
+{
+  "name": "@prashantvermaiiitb/mathlib",
+  "version": "1.0.0",
+  "description": "mathlib in scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantvermaiiitb/scoped-package.git"
+  },
+  "keywords": [
+    "math",
+    "library"
+  ],
+  "author": "prashatvermaiiitb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantvermaiiitb/scoped-package/issues"
+  },
+  "homepage": "https://github.com/prashantvermaiiitb/scoped-package#readme"
+}
